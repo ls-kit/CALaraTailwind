@@ -43,7 +43,7 @@ resources/views/ ├── layouts/ │ └── app.blade.php # 🎨 মাস
 - Issue খুলে suggestion দিন  
 - অথবা আমাদের “চেষ্টা একাডেমি” টিমে জয়েন করুন!  
 
-📨 ফেসবুক পেজ/গ্রুপ: [চেষ্টা একাডেমি](https://facebook.com)
+📨 ফেসবুক পেজ: [চেষ্টা একাডেমি](https://www.facebook.com/profile.php?id=61574906595836)
 
 ---
 
@@ -81,7 +81,7 @@ resources/views/ ├── layouts/ │ └── app.blade.php # 🎨 Master La
 - Open issues with suggestions  
 - Or join our team at “Chesta Academy”  
 
-📨 Facebook Page/Group: [Chesta Academy](https://facebook.com)
+📨 Facebook Page: [Chesta Academy](https://www.facebook.com/profile.php?id=61574906595836)
 
 ---
 
